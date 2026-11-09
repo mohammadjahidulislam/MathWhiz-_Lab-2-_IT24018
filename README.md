@@ -116,7 +116,7 @@ The application displays the top 10 players according to their scores. Higher sc
 
 ### 2. Game Page
 
-[Game Play]<img width="913" height="876" alt="image" src="https://github.com/user-attachments/assets/ce928e52-cc12-43fe-afa0-8bb8222b80ed" />
+[Game Play]<img width="913" height="876" alt="image" src="https://github.com/user-attachments/assets/506f6948-2aee-4710-8a49-3788ea9fea40" />
 
 
 

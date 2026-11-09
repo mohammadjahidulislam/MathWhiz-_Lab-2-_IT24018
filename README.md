@@ -125,8 +125,7 @@ The application displays the top 10 players according to their scores. Higher sc
 
 ### 3. Result Page
 
-![Result Page]<img width="900" height="672" alt="image" src="https://github.com/user-attachments/assets/86e8776b-e153-4fd6-95d0-7ff964b55a33" />
-
+![Result Page]<img width="932" height="673" alt="image" src="https://github.com/user-attachments/assets/f546ec5d-68a0-40ee-8e10-ef6018d320ae" />
 
 
 

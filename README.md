@@ -111,23 +111,27 @@ The application displays the top 10 players according to their scores. Higher sc
 
 ### 1. Welcome Page
 
-![Welcome Page](screenshots/home.png)
+<img width="927" height="613" alt="image" src="https://github.com/user-attachments/assets/e3f5d952-bd36-4d75-82db-fe001286c2ea" />
+
 
 ### 2. Game Page
 
-![Game Page](screenshots/game.png)
+<img width="890" height="890" alt="image" src="https://github.com/user-attachments/assets/b2e08e25-95df-46ed-ad64-9add15f26db0" />
+
 
 ### 3. Result Page
 
-![Result Page](screenshots/result.png)
+![Result Page]<img width="900" height="672" alt="image" src="https://github.com/user-attachments/assets/86e8776b-e153-4fd6-95d0-7ff964b55a33" />
+
 
 ### 4. Leaderboard
 
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard]<img width="906" height="466" alt="image" src="https://github.com/user-attachments/assets/e5a4fb26-07db-4626-bb84-22f07eea2c3e" />
+
 
 ## GitHub Project Link
 
-Add your GitHub repository link here.
+https://github.com/mohammadjahidulislam/MathWhiz-_Lab-2-_IT24018
 
 ## Developer
 

@@ -111,12 +111,12 @@ The application displays the top 10 players according to their scores. Higher sc
 
 ### 1. Welcome Page
 
-<img width="927" height="613" alt="image" src="https://github.com/user-attachments/assets/e3f5d952-bd36-4d75-82db-fe001286c2ea" />
+[Welcome page]<img width="927" height="613" alt="image" src="https://github.com/user-attachments/assets/e3f5d952-bd36-4d75-82db-fe001286c2ea" />
 
 
 ### 2. Game Page
 
-<img width="890" height="890" alt="image" src="https://github.com/user-attachments/assets/b2e08e25-95df-46ed-ad64-9add15f26db0" />
+[Game Play]<img width="890" height="890" alt="image" src="https://github.com/user-attachments/assets/b2e08e25-95df-46ed-ad64-9add15f26db0" />
 
 
 ### 3. Result Page
@@ -126,7 +126,7 @@ The application displays the top 10 players according to their scores. Higher sc
 
 ### 4. Leaderboard
 
-![Leaderboard]<img width="906" height="466" alt="image" src="https://github.com/user-attachments/assets/e5a4fb26-07db-4626-bb84-22f07eea2c3e" />
+![Leaderboard]<img width="955" height="777" alt="image" src="https://github.com/user-attachments/assets/5ff84402-e71e-467f-9b34-3d083efbf788" />
 
 
 ## GitHub Project Link
